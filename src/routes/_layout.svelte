@@ -4,7 +4,7 @@
 	export let segment;
 </script>
 
-<Nav {segment}/>
+<Nav/>
 
 <main>
 	<slot></slot>
