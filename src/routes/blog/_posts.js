@@ -9,78 +9,28 @@
 
 const posts = [
 	{
-		title: 'What is Sapper?',
-		slug: 'what-is-sapper',
+		title: 'What is DAWG?',
+		slug: 'what-is-DAWG',
 		html: `
-			<p>First, you have to know what <a href='https://svelte.dev'>Svelte</a> is. Svelte is a UI framework with a bold new idea: rather than providing a library that you write code with (like React or Vue, for example), it's a compiler that turns your components into highly optimized vanilla JavaScript. If you haven't already read the <a href='https://svelte.dev/blog/frameworks-without-the-framework'>introductory blog post</a>, you should!</p>
-
-			<p>Sapper is a Next.js-style framework (<a href='blog/how-is-sapper-different-from-next'>more on that here</a>) built around Svelte. It makes it embarrassingly easy to create extremely high performance web apps. Out of the box, you get:</p>
-
-			<ul>
-				<li>Code-splitting, dynamic imports and hot module replacement, powered by webpack</li>
-				<li>Server-side rendering (SSR) with client-side hydration</li>
-				<li>Service worker for offline support, and all the PWA bells and whistles</li>
-				<li>The nicest development experience you've ever had, or your money back</li>
-			</ul>
-
-			<p>It's implemented as Express middleware. Everything is set up and waiting for you to get started, but you keep complete control over the server, service worker, webpack config and everything else, so it's as flexible as you need it to be.</p>
+		volutpat diam ut venenatis tellus in metus vulputate eu scelerisque felis imperdiet proin fermentum leo vel orci porta non pulvinar neque laoreet suspendisse interdum consectetur libero id faucibus nisl tincidunt eget nullam non nisi est sit amet facilisis magna etiam tempor orci eu lobortis elementum nibh tellus molestie nunc non blandit massa enim nec dui nunc mattis enim ut tellus elementum sagittis vitae et leo duis ut diam quam nulla porttitor massa id neque aliquam vestibulum morbi blandit cursus risus at ultrices mi tempus imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus mauris vitae ultricies leo integer malesuada nunc vel risus commodo viverra maecenas accumsan lacus vel facilisis volutpat
 		`
 	},
 
 	{
-		title: 'How to use Sapper',
-		slug: 'how-to-use-sapper',
+		title: 'How to use crates',
+		slug: 'how-to-use-crates',
 		html: `
-			<h2>Step one</h2>
-			<p>Create a new project, using <a href='https://github.com/Rich-Harris/degit'>degit</a>:</p>
+			<p>
+			Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Facilisi etiam dignissim diam quis enim lobortis scelerisque fermentum. Integer enim neque volutpat ac tincidunt vitae semper. Est placerat in egestas erat imperdiet sed euismod nisi porta. Dignissim enim sit amet venenatis urna cursus eget nunc. Arcu ac tortor dignissim convallis. Ultrices mi tempus imperdiet nulla malesuada pellentesque elit eget. Risus in hendrerit gravida rutrum quisque non tellus. Tincidunt lobortis feugiat vivamus at augue eget. Lectus quam id leo in vitae. Odio eu feugiat pretium nibh ipsum consequat nisl. Sem nulla pharetra diam sit amet nisl suscipit adipiscing. Sit amet consectetur adipiscing elit ut aliquam purus. Volutpat lacus laoreet non curabitur. Mi proin sed libero enim. Lacus sed viverra tellus in hac habitasse platea. Ut tristique et egestas quis ipsum. Varius quam quisque id diam vel quam. Nec dui nunc mattis enim ut tellus.
 
-			<pre><code>npx degit "sveltejs/sapper-template#rollup" my-app
-			cd my-app
-			npm install # or yarn!
-			npm run dev
-			</code></pre>
+Sed vulputate odio ut enim blandit. Ut venenatis tellus in metus. Et netus et malesuada fames. Pretium lectus quam id leo in vitae turpis massa sed. Egestas tellus rutrum tellus pellentesque eu tincidunt tortor. Pretium viverra suspendisse potenti nullam ac. Etiam dignissim diam quis enim lobortis scelerisque. Ullamcorper malesuada proin libero nunc. Blandit massa enim nec dui. Scelerisque mauris pellentesque pulvinar pellentesque habitant morbi tristique senectus. Neque aliquam vestibulum morbi blandit cursus risus at ultrices mi. Orci sagittis eu volutpat odio facilisis mauris sit. Auctor eu augue ut lectus. Tellus id interdum velit laoreet id donec ultrices tincidunt arcu. Sit amet volutpat consequat mauris nunc congue. Diam quis enim lobortis scelerisque. Pharetra massa massa ultricies mi quis hendrerit dolor magna eget. Diam quis enim lobortis scelerisque fermentum. Fermentum dui faucibus in ornare quam.
 
-			<h2>Step two</h2>
-			<p>Go to <a href='http://localhost:3000'>localhost:3000</a>. Open <code>my-app</code> in your editor. Edit the files in the <code>src/routes</code> directory or add new ones.</p>
+Facilisi etiam dignissim diam quis enim lobortis scelerisque fermentum. Porta non pulvinar neque laoreet. Integer enim neque volutpat ac tincidunt vitae semper. Pharetra convallis posuere morbi leo. Vel orci porta non pulvinar neque laoreet suspendisse. Ultricies leo integer malesuada nunc. Ipsum dolor sit amet consectetur adipiscing elit duis. Enim facilisis gravida neque convallis a cras. In ornare quam viverra orci. Libero enim sed faucibus turpis in eu mi. Quis vel eros donec ac odio tempor orci. Mi proin sed libero enim sed. Scelerisque varius morbi enim nunc faucibus a pellentesque sit amet. Scelerisque fermentum dui faucibus in ornare quam viverra orci. Feugiat vivamus at augue eget arcu dictum varius duis.
 
-			<h2>Step three</h2>
-			<p>...</p>
+Aliquam eleifend mi in nulla posuere sollicitudin. Sit amet mattis vulputate enim nulla. Ultrices sagittis orci a scelerisque purus. Erat nam at lectus urna duis. Placerat in egestas erat imperdiet sed euismod nisi porta. Viverra mauris in aliquam sem fringilla ut morbi. Et tortor at risus viverra adipiscing. Augue neque gravida in fermentum et sollicitudin ac. Consectetur a erat nam at lectus. Elementum sagittis vitae et leo duis ut diam quam nulla. At quis risus sed vulputate odio ut enim. Nam at lectus urna duis convallis convallis tellus. Suspendisse potenti nullam ac tortor vitae purus faucibus. Et sollicitudin ac orci phasellus egestas tellus. Rutrum quisque non tellus orci. Quis commodo odio aenean sed adipiscing. Nibh mauris cursus mattis molestie a iaculis at erat. Suspendisse sed nisi lacus sed. Lobortis scelerisque fermentum dui faucibus in ornare quam viverra. Porttitor rhoncus dolor purus non.
 
-			<h2>Step four</h2>
-			<p>Resist overdone joke formats.</p>
-		`
-	},
-
-	{
-		title: 'Why the name?',
-		slug: 'why-the-name',
-		html: `
-			<p>In war, the soldiers who build bridges, repair roads, clear minefields and conduct demolitions — all under combat conditions — are known as <em>sappers</em>.</p>
-
-			<p>For web developers, the stakes are generally lower than those for combat engineers. But we face our own hostile environment: underpowered devices, poor network connections, and the complexity inherent in front-end engineering. Sapper, which is short for <strong>S</strong>velte <strong>app</strong> mak<strong>er</strong>, is your courageous and dutiful ally.</p>
-		`
-	},
-
-	{
-		title: 'How is Sapper different from Next.js?',
-		slug: 'how-is-sapper-different-from-next',
-		html: `
-			<p><a href='https://github.com/zeit/next.js'>Next.js</a> is a React framework from <a href='https://vercel.com/'>Vercel</a>, and is the inspiration for Sapper. There are a few notable differences, however:</p>
-
-			<ul>
-				<li>It's powered by <a href='https://svelte.dev'>Svelte</a> instead of React, so it's faster and your apps are smaller</li>
-				<li>Instead of route masking, we encode route parameters in filenames. For example, the page you're looking at right now is <code>src/routes/blog/[slug].svelte</code></li>
-				<li>As well as pages (Svelte components, which render on server or client), you can create <em>server routes</em> in your <code>routes</code> directory. These are just <code>.js</code> files that export functions corresponding to HTTP methods, and receive Express <code>request</code> and <code>response</code> objects as arguments. This makes it very easy to, for example, add a JSON API such as the one <a href='blog/how-is-sapper-different-from-next.json'>powering this very page</a></li>
-				<li>Links are just <code>&lt;a&gt;</code> elements, rather than framework-specific <code>&lt;Link&gt;</code> components. That means, for example, that <a href='blog/how-can-i-get-involved'>this link right here</a>, despite being inside a blob of HTML, works with the router as you'd expect.</li>
-			</ul>
-		`
-	},
-
-	{
-		title: 'How can I get involved?',
-		slug: 'how-can-i-get-involved',
-		html: `
-			<p>We're so glad you asked! Come on over to the <a href='https://github.com/sveltejs/svelte'>Svelte</a> and <a href='https://github.com/sveltejs/sapper'>Sapper</a> repos, and join us in the <a href='https://svelte.dev/chat'>Discord chatroom</a>. Everyone is welcome, especially you!</p>
+Aliquet nec ullamcorper sit amet. Ullamcorper morbi tincidunt ornare massa. Proin nibh nisl condimentum id venenatis a condimentum. Nec ullamcorper sit amet risus. Viverra nibh cras pulvinar mattis. Egestas dui id ornare arcu. Phasellus egestas tellus rutrum tellus pellentesque eu. Scelerisque mauris pellentesque pulvinar pellentesque habitant morbi. Eget nulla facilisi etiam dignissim diam quis enim lobortis. Sit amet cursus sit amet. Aliquam purus sit amet luctus. Dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim cras tincidunt. Libero volutpat sed cras ornare. Sit amet risus nullam eget felis eget. Mattis vulputate enim nulla aliquet porttitor.
+			</p>
 		`
 	}
 ];
@@ -90,3 +40,4 @@ posts.forEach(post => {
 });
 
 export default posts;
+
